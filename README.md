@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Alibek
-#### I am FullStack Developer
-![I am FullStack Developer]
 
 Hi, I'm fullstack developer from Almaty Kazakhstan.
 
