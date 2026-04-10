@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alibek
 
-Hi, I'm fullstack developer from Almaty Kazakhstan.
+Hi, I'm fullstack developer from Almaty, Kazakhstan.
 
 Skills: Python/ REACT / JS / HTML / CSS
 
