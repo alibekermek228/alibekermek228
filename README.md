@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alibek
 #### I am FullStack Developer
-![I am FullStack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am FullStack Developer]
 
 Hi, I'm fullstack developer from Almaty Kazakhstan.
 
