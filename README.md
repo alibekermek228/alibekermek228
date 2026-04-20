@@ -91,13 +91,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 ACHIEVEMENTS
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alibekermek228&theme=radical&no-frame=true&margin-w=8&column=4" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
 
 ## 🌐 CONNECT
 
@@ -113,11 +111,7 @@
 
 <div align="center">
 
-### 👁️ VISITOR COUNT
 
-<img src="https://komarev.com/ghpvc/?username=alibekermek228&color=00fff0&style=for-the-badge&label=VISITORS" />
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00fff0&height=120&section=footer&animation=fadeIn" width="100%"/>
 
